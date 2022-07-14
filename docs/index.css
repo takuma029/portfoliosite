@@ -40,3 +40,7 @@ footer {
     top: 0;
     left: 0;
 }
+
+video {
+    width: 100%;
+}
